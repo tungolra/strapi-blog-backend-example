@@ -1,0 +1,1 @@
+# strapi-nextjs-blog-example
